@@ -4,7 +4,7 @@
 
 #include <TM1637Display.h>  // library from https://github.com/avishorp/TM1637
 
-#include "DHTesp.h" // Click here to get the library: http://librarymanager/All#DHTesp
+#include "DHTesp.h" // Click here to get the library: https://www.arduinolibraries.info/libraries/dht-sensor-library-for-es-px
 DHTesp dht;
 
 #define DHTPIN D7 // GPIO13 = D7    // what pin we're connected the DHT output
